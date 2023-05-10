@@ -103,7 +103,7 @@ def take_money(machine):
     print("I gave you $" + str(machine[4]))
     machine[4] = 0
 
-
+#
 while True:
     print()
     print("Write action (buy, fill, take, remaining, exit):")
